@@ -46,7 +46,7 @@ At its core, TrigEase applies trigonometric formulas using JavaScript’s Math e
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * HTML for structure
 * CSS for layout and styling
