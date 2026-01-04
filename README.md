@@ -6,7 +6,7 @@ At its core, TrigEase applies trigonometric formulas using JavaScript’s Math e
 
 ---
 
-## ⚙️ How the Code Works
+## How the Code Works
 
 1. **Input Handling**
    The user enters an angle value and selects the desired unit (degrees or radians). Event listeners capture these inputs in real time.
@@ -38,7 +38,7 @@ At its core, TrigEase applies trigonometric formulas using JavaScript’s Math e
 
 ---
 
-## ✨ Features
+## Features
 
 * Degree and radian modes
 * Accurate computation of all six trigonometric functions
@@ -55,7 +55,7 @@ At its core, TrigEase applies trigonometric formulas using JavaScript’s Math e
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 * `manifest.json` – Defines extension metadata and permissions
 * `popup.html` – User interface layout
@@ -64,13 +64,13 @@ At its core, TrigEase applies trigonometric formulas using JavaScript’s Math e
 
 ---
 
-## 🎯 Purpose of the Project
+## Purpose of the Project
 
 TrigEase was built to demonstrate strong fundamentals in mathematical reasoning, and browser extension development. The project emphasizes  clarity, and usability while keeping the codebase simple and maintainable.
 
 ---
 
-## 🌱 Future Improvements
+## Future Improvements
 
 * Graphical visualization of trigonometric functions
 * Dark mode support
@@ -78,10 +78,6 @@ TrigEase was built to demonstrate strong fundamentals in mathematical reasoning,
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License**.
-
----
-
-⭐ If you find this project useful, consider starring the repository.
